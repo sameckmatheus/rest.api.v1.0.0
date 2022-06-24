@@ -1,4 +1,3 @@
-<h1 align="center"> REST API com NodeJS</h1>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="100px" />
 </div>
