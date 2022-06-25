@@ -15,3 +15,5 @@ A sigla API deriva da expressão inglesa Application Programming Interface que, 
 <p align="justify">
 Por meio de APIs, desenvolvedores podem criar novos softwares e aplicativos capazes de se comunicar com outras plataformas. Por exemplo: caso um desenvolvedor queira criar um aplicativo de fotos para Android, ele poderá ter acesso à câmera do celular através da API do sistema operacional, sem ter a necessidade de criar uma nova interface de câmera do zero. O mesmo acontece com aplicativos que utilizam os serviços de mapas por meio da API do Google Maps ou, ainda, nas integrações entre apps, como o Spotify e o Instagram, que possibilita compartilhar faixas nos Stories.</p>
 </div>
+
+<h3>O projeto está em fase de desenvolvimento mas, você pode cloná-lo e realizar melhorias e/ou incrementações. Divirta-se!!!</h3>
