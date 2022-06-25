@@ -1,5 +1,7 @@
 const mongoose = require('mongoose');
 
+// Dentro da classe connection você pode utilizar não só o mongodb, mas também multiplos bancos de dados como mysql por exemplo...
+
 class Connection {
   constructor() {
     this.dataBaseConnectionMongoDB();
